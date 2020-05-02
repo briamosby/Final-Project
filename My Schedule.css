@@ -1,0 +1,9 @@
+td {
+    background-color: #67b6e7;
+    padding: 15px;
+    border: 2px solid #000000;
+    cursor: grabbing;
+}
+table {
+    border-spacing: 5px 15px;
+}
